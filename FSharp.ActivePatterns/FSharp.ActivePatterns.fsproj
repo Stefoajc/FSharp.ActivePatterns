@@ -10,7 +10,6 @@
     <None Include="PartialPatterns.fsx" />
     <None Include="MutliCaseTotalPatterns.fsx" />
     <None Include="SingleCaseTotalPatterns.fsx" />
-    <Compile Include="Program.fs" />
   </ItemGroup>
 
   <ItemGroup />
