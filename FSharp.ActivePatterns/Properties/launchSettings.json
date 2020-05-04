@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FSharp.ActivePatterns": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
